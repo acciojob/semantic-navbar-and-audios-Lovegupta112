@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+header{
+	border:2px solid black;
+/* 	display:flex; */
+/* 	width:fit-content; */
+/* 	justify-content:center; */
+	
+}
+header nav{
+	border:2px solid black;
+/* 	display:flex; */
+	
+}
+header nav ul{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+/* 	justify-content:center; */
+	list-style-type:none;
+/* 	border:2px solid black; */
+}
+nav ul li{
+/* 	border:2px solid black; */
+}
+nav ul li a{
+	text-decoration:none;
+}
+h1{
+	font-family:sans-serif;
+}
+
+
+
+
